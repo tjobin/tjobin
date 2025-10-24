@@ -18,3 +18,7 @@ of Molecular Systems](https://github.com/tjobin/TP-IV-CQSL)
 
 📫 Reach me at: [timothe.jobin@epfl.com](timothe.jobin@epfl.com)
 💼 LinkedIn: [linkedin.com/in/timothe-jobin](https://www.linkedin.com/in/timothe-jobin/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-black?logo=jax&logoColor=white)
+![NetKet](https://img.shields.io/badge/NetKet-blue)
