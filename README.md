@@ -16,7 +16,7 @@ of Molecular Systems](https://github.com/tjobin/TP-IV-CQSL)
 <!--- - ⚛️ [NetKet ECP Extension](https://github.com/yourusername/netket-ecp)
 - 📚 [Notes on Quantum Path Integrals](https://github.com/yourusername/path-integrals) ---->
 
-📫 Reach me at: [timothe.jobin@epfl.com](timothe.jobin@epfl.com)
+📫 Reach me at: [timothe.jobin@epfl.com](timothe.jobin@epfl.com) <br>
 💼 LinkedIn: [linkedin.com/in/timothe-jobin](https://www.linkedin.com/in/timothe-jobin/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
