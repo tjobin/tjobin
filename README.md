@@ -13,6 +13,7 @@ Quantum chemistry • Quantum computing • Machine learning for many-body syste
 - ⚛️ [Message Passing Neural Networks for Calculating the Ground-State Energy
 of Molecular Systems](https://github.com/tjobin/TP-IV-CQSL)
 - 🧬 [Importance of features in molecular representation of amino acids for direct-coupling analysis](https://github.com/CS-433/ml-project-2-pebkac)
+- 🌈 Simulating Liquid Crystal Alignment: The Role of Aspect Ratio
 <!--- - ⚛️ [NetKet ECP Extension](https://github.com/yourusername/netket-ecp)
 - 📚 [Notes on Quantum Path Integrals](https://github.com/yourusername/path-integrals) ---->
 
