@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothé
 
-🎓 I'm a master's student in **Quantum Science and Engineering** at EPFL focusing on both **classical and quantum computional methods** for **quantum chemistry**.
+🎓 I'm a master's student in **Quantum Science and Engineering** at EPFL focusing on both **classical and quantum computational methods** for **quantum chemistry**.
 
 <!---💡 I’m currently working on:
 - Developing **neural-network quantum states** with message-passing and kernel attention networks.
@@ -10,10 +10,12 @@
 Quantum chemistry • Quantum computing • Machine learning for many-body systems
 
 🔭 Projects:
-- ⚛️ [Message Passing Neural Networks for Calculating the Ground-State Energy
+- ⚛️ [Variational Monte Carlo Methods with Message Passing Neural Networks for Calculating the Ground-State Energy
 of Molecular Systems](https://github.com/tjobin/TP-IV-CQSL)
+- 🕰️ [Adaptive Quantum Imaginary-Time Evolution](https://github.com/tjobin/adaptive-qite)
+- ⭐️ [UCCSD vs EfficientSU2 Ansatze in Variational Quantum Eigensolver Methods](https://github.com/tjobin/vqe)
 - 🧬 [Importance of features in molecular representation of amino acids for direct-coupling analysis](https://github.com/CS-433/ml-project-2-pebkac)
-- 🌈 Simulating Liquid Crystal Alignment: The Role of Aspect Ratio
+<!--- - 🌈 Simulating Liquid Crystal Alignment: The Role of Aspect Ratio
 <!--- - ⚛️ [NetKet ECP Extension](https://github.com/yourusername/netket-ecp)
 - 📚 [Notes on Quantum Path Integrals](https://github.com/yourusername/path-integrals) ---->
 
