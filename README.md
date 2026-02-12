@@ -33,10 +33,9 @@ Quantum chemistry • Computational chemistry • Quantum computing • Machine 
 - **Key Result:** While KANs showed high expressivity, the simpler Vertex/Edge MPNN ansatz converged faster for small systems, achieving chemical accuracy (1.6 mHa) with fewer fluctuations.
 - **Tools:** JAX, Flax, NetKet, jaxkan.
 
-#### 🧪 [NQS with Pseudopotentials (ccECP)](https://github.com/yourusername/netket-ecp)
-*Extending Neural Quantum States to transition metals.*
+#### 🧪 [Neural Quantum States with Pseudopotentials (ccECP)](https://github.com/yourusername/netket-ecp)
+*Extending Message Passing Neural Network architecture to transition metals for VMC.*
 - **Method:** Implemented **core-correlated Effective Core Potentials (ccECP)** to simulate 3rd-row elements (Ga, Kr, Sc, Ti) without explicitly modeling core electrons.
-- **Optimization:** Utilized [**Forward Laplacian**](https://github.com/y1xiaoc/fwdlap) (via JAX) for efficient kinetic energy estimation.
 - **Key Result:** Achieved chemical accuracy for Ga and Kr compared to FermiNet baselines.
 - **Tools:** JAX, Flax, NetKet, Ferminet_ECP.
 
@@ -52,7 +51,7 @@ Quantum chemistry • Computational chemistry • Quantum computing • Machine 
 - **Key Result:** Discovered that **EfficientSU2** is significantly more robust to gate errors (up to 1% error rate) than the physically motivated UCCSD, despite UCCSD's superior theoretical convergence rate.
 - **Tools:** Qiskit.
 
-#### 🧬 **[Interpretable ML for Protein Folding](https://github.com/CS-433/ml-project-2-pebkac)**
+<!--- #### 🧬 **[Interpretable ML for Protein Folding](https://github.com/CS-433/ml-project-2-pebkac)**
 - Modified an **AttentionDCA** model to accept physics-based molecular representations (SPAHM, SLATM).
 - **Key Finding:** By analyzing attention weights, found that the model prioritizes lower electronic energy levels (SPAHM eigenvalues), aligning with physical intuition for protein stability.
 <!--- - 🌈 Simulating Liquid Crystal Alignment: The Role of Aspect Ratio
@@ -61,10 +60,6 @@ Quantum chemistry • Computational chemistry • Quantum computing • Machine 
 
 ---
 
-### 📫 Connect
-📫 Reach me at: [timothe.jobin@epfl.com](timothe.jobin@epfl.com) <br>
+### 🤝 Let's Connect
+📫 Email: [timothe.jobin@epfl.com](timothe.jobin@epfl.com) <br>
 💼 LinkedIn: [linkedin.com/in/timothe-jobin](https://www.linkedin.com/in/timothe-jobin/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-black?logo=jax&logoColor=white)
-![NetKet](https://img.shields.io/badge/NetKet-blue)
