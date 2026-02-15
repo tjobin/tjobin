@@ -37,7 +37,7 @@ Quantum chemistry • Computational chemistry • Quantum computing • Machine 
 *Extending Message Passing Neural Network architecture to transition metals for VMC.*
 - **Method:** Implemented **core-correlated Effective Core Potentials (ccECP)** to simulate 3rd-row elements (Ga, Kr, Sc, Ti) without explicitly modeling core electrons.
 - **Key Result:** Achieved chemical accuracy for Ga and Kr compared to FermiNet baselines.
-- **Tools:** JAX, Flax, NetKet, Ferminet_ECP.
+- **Tools:** JAX, Flax, NetKet, Ferminet_with_ECP.
 
 #### 🕰️ [Adaptive Quantum Imaginary-Time Evolution (AQITE)](https://github.com/tjobin/adaptive-qite)
 *Developing a dynamic time-step algorithm for ground-state preparation on NISQ devices.*
