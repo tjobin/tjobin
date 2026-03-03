@@ -13,6 +13,8 @@
 
 Quantum chemistry • Computational chemistry • Quantum computing • Machine learning for many-body systems
 
+Now working on implementing Krylov space methods in DMRG... 
+
 ---
 
 ### 🛠 Tech Stack
