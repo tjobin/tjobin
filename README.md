@@ -13,7 +13,7 @@
 
 Quantum chemistry • Computational chemistry • Quantum computing • Machine learning for many-body systems
 
-Now working on implementing A Lanczos step in DMRG... 
+Currently working on the implementation of a [sampling-based Lanczos step in DMRG](https://github.com/tjobin/dmrg-project)... 
 
 ---
 
