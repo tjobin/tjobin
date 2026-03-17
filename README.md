@@ -13,7 +13,7 @@
 
 Quantum chemistry • Computational chemistry • Quantum computing • Machine learning for many-body systems
 
-Now working on implementing Krylov space methods in DMRG... 
+Now working on implementing A Lanczos step in DMRG... 
 
 ---
 
